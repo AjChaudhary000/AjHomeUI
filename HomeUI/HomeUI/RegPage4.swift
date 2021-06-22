@@ -85,7 +85,7 @@ class RegPage4: UIViewController {
         myprogress.frame = CGRect(x: 15, y: 132, width: 313, height: 15)
         mylabel1.frame = CGRect(x: 97 , y: 172, width: 260, height: 23)
         btn1.frame = CGRect(x: 45  , y:445, width: 261, height: 23)
-        myimg.frame = CGRect(x: 75  , y:529, width: 200, height: 200)
+        myimg.frame = CGRect(x: 75  , y:220, width: 200, height: 200)
         mylabel2.frame = CGRect(x: 22 , y: 493, width:330, height: 21)
         mySwitch.frame = CGRect(x: 22 , y:539, width:69, height: 30)
         btn.frame = CGRect(x: 165  , y:577, width: 174, height: 58)
